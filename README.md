@@ -29,5 +29,17 @@ Design link: https://www.figma.com/design/od7N8QVA8m9RTh8VLthOMH/Snake-app?node-
 Experience hi-fi prototype: https://www.figma.com/proto/od7N8QVA8m9RTh8VLthOMH/Snake-app?page-id=2%3A2&node-id=18-233&node-type=frame&viewport=439%2C254%2C0.17&t=kWo2BxgOJq0rULHY-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=18%3A220 
 
 ##**Content**
+* [snake-app-final-1-new] - The folder that contains the files while the team is working on the project. Includes the files and structures needed to run the Expo mobile app such as backend, frontend, model, and data
 
-(Nhóm Thư, Vân, Lam note giới thiệu những file đã up lên)
+* [final_app] - The folder that contains the complete application. This is the final version of the project with all the features and bug fixes.
+
+* [frontend] - The folder that contains the user interface files of the application. Includes the source code for the interface using React Native, which interacts directly with the backend and Expo to recognize snakes.
+
+* [gitattributes] - Configuration file for Git LFS. Contains large file types (such as images, models) that are tracked by Git LFS to optimize storage.
+
+* [README.md] - The main README file of the project. Detailed instructions on how to install, use, and deploy the snake recognition application, as well as system requirements and contact information.
+
+* [SnakeClassification.ipynb] - Jupyter Notebook for training and evaluating snake recognition models. Contains the source code and training process for the snake classification model, including preprocessing, training, and accuracy evaluation steps.
+
+* [database_snake.sql] - The project's SQL database file. Contains the basic structure and data for the database used in the application, including tables and relations needed to store information about snake species and their venom. This is a future direction and the team plans to implement it in the near future.
+
