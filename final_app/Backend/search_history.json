@@ -1,0 +1,772 @@
+[
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730626057251.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-03T16:27:52.691985"
+    },
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730627236898.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-03T16:47:18.470287"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Viperidae",
+            "Genus": "Agkistrodon",
+            "Poisonous": "Poisonous"
+        },
+        "image_url": "static/uploads/snake_1730627483824.jpg",
+        "label": "Agkistrodon piscivorus",
+        "predictions": {
+            "EfficientNetV2B3": "Agkistrodon piscivorus"
+        },
+        "timestamp": "2024-11-03T16:51:25.415359"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Viperidae",
+            "Genus": "Agkistrodon",
+            "Poisonous": "Poisonous"
+        },
+        "image_url": "static/uploads/snake_1730627483856.jpg",
+        "label": "Agkistrodon piscivorus",
+        "predictions": {
+            "EfficientNetV2B3": "Agkistrodon piscivorus"
+        },
+        "timestamp": "2024-11-03T16:51:25.499820"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730628205778.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-03T17:03:31.320466"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730628350294.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-03T17:05:51.831901"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730628632000.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-03T17:10:33.773794"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730628675272.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-03T17:11:16.742654"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730629114052.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-03T17:18:35.508802"
+    },
+    {
+        "additional_info": {
+            "Country": "Colombia",
+            "Family": "Colubridae",
+            "Genus": "Atractus",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730635114080.jpg",
+        "label": "Atractus crassicaudatus",
+        "predictions": {
+            "EfficientNetV2B3": "Atractus crassicaudatus"
+        },
+        "timestamp": "2024-11-03T18:58:35.177323"
+    },
+    {
+        "additional_info": {
+            "Country": "Colombia",
+            "Family": "Colubridae",
+            "Genus": "Atractus",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730637901812.jpg",
+        "label": "Atractus crassicaudatus",
+        "predictions": {
+            "EfficientNetV2B3": "Atractus crassicaudatus"
+        },
+        "timestamp": "2024-11-03T19:45:02.939429"
+    },
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730638913669.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-03T20:01:55.623196"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730639065744.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-03T20:04:26.701082"
+    },
+    {
+        "additional_info": {
+            "Country": "India",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730639526098.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-03T20:12:07.188026"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Pythonidae",
+            "Genus": "Aspidites",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730647611104.jpg",
+        "label": "Aspidites melanocephalus",
+        "predictions": {
+            "EfficientNetV2B3": "Aspidites melanocephalus"
+        },
+        "timestamp": "2024-11-03T22:26:51.995383"
+    },
+    {
+        "additional_info": {
+            "Country": "India",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730684938027.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-04T08:49:04.017326"
+    },
+    {
+        "additional_info": {
+            "Country": "India",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730692380464.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-04T10:52:59.685903"
+    },
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730703465855.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T13:57:44.861419"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Pythonidae",
+            "Genus": "Aspidites",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730707221335.jpg",
+        "label": "Aspidites melanocephalus",
+        "predictions": {
+            "EfficientNetV2B3": "Aspidites melanocephalus"
+        },
+        "timestamp": "2024-11-04T15:00:22.848964"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730707428753.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-04T15:03:50.504975"
+    },
+    {
+        "additional_info": {
+            "Country": "India",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730707801976.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-04T15:10:03.453207"
+    },
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730708464854.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T15:21:06.448703"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730708525933.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-04T15:22:07.435296"
+    },
+    {
+        "additional_info": {
+            "Country": "India",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730709172708.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-04T15:32:54.289692"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Pythonidae",
+            "Genus": "Aspidites",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730710424708.jpg",
+        "label": "Aspidites melanocephalus",
+        "predictions": {
+            "EfficientNetV2B3": "Aspidites melanocephalus"
+        },
+        "timestamp": "2024-11-04T15:53:46.408997"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Pythonidae",
+            "Genus": "Aspidites",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730710696314.jpg",
+        "label": "Aspidites melanocephalus",
+        "predictions": {
+            "EfficientNetV2B3": "Aspidites melanocephalus"
+        },
+        "timestamp": "2024-11-04T15:58:18.126589"
+    },
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730725060612.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T19:57:41.967781"
+    },
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730725237754.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T20:00:38.910495"
+    },
+    {
+        "additional_info": {
+            "Country": "Vietnam",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Not poisonous"
+        },
+        "image_url": "static/uploads/snake_1730726039758.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T20:14:00.622325"
+    },
+    {
+        "additional_info": {
+            "Country": "unknown",
+            "Family": "Viperidae",
+            "Genus": "Bitis",
+            "Poisonous": "Poisonous"
+        },
+        "image_url": "static/uploads/snake_1730726530514.jpg",
+        "label": "Bitis arietans",
+        "predictions": {
+            "EfficientNetV2B3": "Bitis arietans"
+        },
+        "timestamp": "2024-11-04T20:22:11.436333"
+    },
+    {
+        "additional_info": {
+            "Country": "South Africa",
+            "Family": "Viperidae",
+            "Genus": "Bitis",
+            "Poisonous": "Poisonous"
+        },
+        "image_url": "static/uploads/snake_1730726708851.jpg",
+        "label": "Bitis arietans",
+        "predictions": {
+            "EfficientNetV2B3": "Bitis arietans"
+        },
+        "timestamp": "2024-11-04T20:25:14.464202"
+    },
+    {
+        "additional_info": {
+            "Country": "Indonesia",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730726928976.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T20:28:53.727718"
+    },
+    {
+        "additional_info": {
+            "Country": "Sri Lanka",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730728041300.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-04T20:47:22.247740"
+    },
+    {
+        "additional_info": {
+            "Country": "Indonesia",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730729671028.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T21:14:31.955350"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Viperidae",
+            "Genus": "Agkistrodon",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730731875199.jpg",
+        "label": "Agkistrodon piscivorus",
+        "predictions": {
+            "EfficientNetV2B3": "Agkistrodon piscivorus"
+        },
+        "timestamp": "2024-11-04T21:51:16.052711"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Viperidae",
+            "Genus": "Agkistrodon",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730732048442.jpg",
+        "label": "Agkistrodon piscivorus",
+        "predictions": {
+            "EfficientNetV2B3": "Agkistrodon piscivorus"
+        },
+        "timestamp": "2024-11-04T21:54:09.283393"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Viperidae",
+            "Genus": "Agkistrodon",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730732086152.jpg",
+        "label": "Agkistrodon piscivorus",
+        "predictions": {
+            "EfficientNetV2B3": "Agkistrodon piscivorus"
+        },
+        "timestamp": "2024-11-04T21:54:46.957082"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Elapidae",
+            "Genus": "Austrelaps",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730732291698.jpg",
+        "label": "Austrelaps superbus",
+        "predictions": {
+            "EfficientNetV2B3": "Austrelaps superbus"
+        },
+        "timestamp": "2024-11-04T21:58:13.585334"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Elapidae",
+            "Genus": "Austrelaps",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730732499961.jpg",
+        "label": "Austrelaps superbus",
+        "predictions": {
+            "EfficientNetV2B3": "Austrelaps superbus"
+        },
+        "timestamp": "2024-11-04T22:01:41.282265"
+    },
+    {
+        "additional_info": {
+            "Country": "Sri Lanka",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730732742344.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-04T22:05:43.277487"
+    },
+    {
+        "additional_info": {
+            "Country": "Indonesia",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730732789379.jpg",
+        "label": "Ahaetulla prasina",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla prasina"
+        },
+        "timestamp": "2024-11-04T22:06:30.395862"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Pythonidae",
+            "Genus": "Aspidites",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730733940732.jpg",
+        "label": "Aspidites melanocephalus",
+        "predictions": {
+            "EfficientNetV2B3": "Aspidites melanocephalus"
+        },
+        "timestamp": "2024-11-04T22:25:41.659634"
+    },
+    {
+        "additional_info": {
+            "Country": "unknown",
+            "Family": "Colubridae",
+            "Genus": "Arizona",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730734201516.jpg",
+        "label": "Arizona elegans",
+        "predictions": {
+            "EfficientNetV2B3": "Arizona elegans"
+        },
+        "timestamp": "2024-11-04T22:30:06.140468"
+    },
+    {
+        "additional_info": {
+            "Country": "Australia",
+            "Family": "Pythonidae",
+            "Genus": "Aspidites",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730734248498.jpg",
+        "label": "Aspidites melanocephalus",
+        "predictions": {
+            "EfficientNetV2B3": "Aspidites melanocephalus"
+        },
+        "timestamp": "2024-11-04T22:30:49.320129"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Viperidae",
+            "Genus": "Agkistrodon",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730768494759.jpg",
+        "label": "Agkistrodon piscivorus",
+        "predictions": {
+            "EfficientNetV2B3": "Agkistrodon piscivorus"
+        },
+        "timestamp": "2024-11-05T08:01:41.227454"
+    },
+    {
+        "additional_info": {
+            "Country": "Colombia",
+            "Family": "Colubridae",
+            "Genus": "Atractus",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730769360472.jpg",
+        "label": "Atractus crassicaudatus",
+        "predictions": {
+            "EfficientNetV2B3": "Atractus crassicaudatus"
+        },
+        "timestamp": "2024-11-05T08:15:59.718369"
+    },
+    {
+        "additional_info": {
+            "Country": "United States of America",
+            "Family": "Viperidae",
+            "Genus": "Agkistrodon",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730769395395.jpg",
+        "label": "Agkistrodon piscivorus",
+        "predictions": {
+            "EfficientNetV2B3": "Agkistrodon piscivorus"
+        },
+        "timestamp": "2024-11-05T08:16:34.591714"
+    },
+    {
+        "additional_info": {
+            "Country": "Sri Lanka",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730769449899.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-05T08:17:29.053733"
+    },
+    {
+        "additional_info": {
+            "Country": "Sri Lanka",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730770549741.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-05T08:35:48.921792"
+    },
+    {
+        "additional_info": {
+            "Country": "Sri Lanka",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730770555565.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-05T08:35:54.865584"
+    },
+    {
+        "additional_info": {
+            "Country": "Sri Lanka",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730771143479.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-05T08:45:42.707926"
+    },
+    {
+        "additional_info": {
+            "Country": "Sri Lanka",
+            "Family": "Colubridae",
+            "Genus": "Ahaetulla",
+            "Poisonous": "Kh\u00f4ng c\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730771550636.jpg",
+        "label": "Ahaetulla nasuta",
+        "predictions": {
+            "EfficientNetV2B3": "Ahaetulla nasuta"
+        },
+        "timestamp": "2024-11-05T08:52:30.250802"
+    },
+    {
+        "additional_info": {
+            "Country": "South Africa",
+            "Family": "Viperidae",
+            "Genus": "Bitis",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730771632935.jpg",
+        "label": "Bitis arietans",
+        "predictions": {
+            "EfficientNetV2B3": "Bitis arietans"
+        },
+        "timestamp": "2024-11-05T08:54:03.603504"
+    },
+    {
+        "additional_info": {
+            "Country": "South Africa",
+            "Family": "Viperidae",
+            "Genus": "Bitis",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730771640882.jpg",
+        "label": "Bitis arietans",
+        "predictions": {
+            "EfficientNetV2B3": "Bitis arietans"
+        },
+        "timestamp": "2024-11-05T08:54:22.108207"
+    },
+    {
+        "additional_info": {
+            "Country": "South Africa",
+            "Family": "Viperidae",
+            "Genus": "Bitis",
+            "Poisonous": "C\u00f3 \u0111\u1ed9c"
+        },
+        "image_url": "static/uploads/snake_1730771638845.jpg",
+        "label": "Bitis arietans",
+        "predictions": {
+            "EfficientNetV2B3": "Bitis arietans"
+        },
+        "timestamp": "2024-11-05T08:54:42.568354"
+    }
+]
