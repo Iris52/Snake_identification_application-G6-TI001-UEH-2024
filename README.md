@@ -9,7 +9,7 @@ Overview
 
 
 
-##**Dataset**
+**Dataset**
 Image of 135 different species of snakes
 ###Directory
 Csv - Contains csv file with details about training and test set , information regarding the binomial name , country where they are found and etc.
@@ -19,7 +19,7 @@ test - Contains folder differentiated by the class_id(check csv) ,around 3k imag
 https://www.kaggle.com/datasets/goelyash/165-different-snakes-species 
 
 
-##**Design application interface**
+**Design application interface**
 
 
 Design link: https://www.figma.com/design/od7N8QVA8m9RTh8VLthOMH/Snake-app?node-id=18-233&t=aK6g6jNgoXvQMV6C-1 
@@ -28,7 +28,7 @@ Design link: https://www.figma.com/design/od7N8QVA8m9RTh8VLthOMH/Snake-app?node-
 
 Experience hi-fi prototype: https://www.figma.com/proto/od7N8QVA8m9RTh8VLthOMH/Snake-app?page-id=2%3A2&node-id=18-233&node-type=frame&viewport=439%2C254%2C0.17&t=kWo2BxgOJq0rULHY-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=18%3A220 
 
-##**Content**
+**Content**
 * **[snake-app-final-1-new]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/Snake-app-final-1-new) - The folder that contains the files while the team is working on the project. Includes the files and structures needed to run the Expo mobile app such as backend, frontend, model, and data
 
 * **[final_app]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/final_app) - The folder that contains the complete application. This is the final version of the project with all the features and bug fixes.
