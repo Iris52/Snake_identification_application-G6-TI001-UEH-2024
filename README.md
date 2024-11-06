@@ -31,15 +31,15 @@ Experience hi-fi prototype: https://www.figma.com/proto/od7N8QVA8m9RTh8VLthOMH/S
 ##**Content**
 * [(snake-app-final-1-new)] (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/Snake-app-final-1-new) - The folder that contains the files while the team is working on the project. Includes the files and structures needed to run the Expo mobile app such as backend, frontend, model, and data
 
-* [final_app] - The folder that contains the complete application. This is the final version of the project with all the features and bug fixes.
+* [final_app] (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/final_app) - The folder that contains the complete application. This is the final version of the project with all the features and bug fixes.
 
-* [frontend] - The folder that contains the user interface files of the application. Includes the source code for the interface using React Native, which interacts directly with the backend and Expo to recognize snakes.
+* [frontend] (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/frontend) - The folder that contains the user interface files of the application. Includes the source code for the interface using React Native, which interacts directly with the backend and Expo to recognize snakes.
 
-* [gitattributes] - Configuration file for Git LFS. Contains large file types (such as images, models) that are tracked by Git LFS to optimize storage.
+* [gitattributes] (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/.gitattributes) - Configuration file for Git LFS. Contains large file types (such as images, models) that are tracked by Git LFS to optimize storage.
 
-* [README.md] - The main README file of the project. Detailed instructions on how to install, use, and deploy the snake recognition application, as well as system requirements and contact information.
+* [README.md] (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/README.md) - The main README file of the project. Detailed instructions on how to install, use, and deploy the snake recognition application, as well as system requirements and contact information.
 
-* [SnakeClassification.ipynb] - Jupyter Notebook for training and evaluating snake recognition models. Contains the source code and training process for the snake classification model, including preprocessing, training, and accuracy evaluation steps.
+* [SnakeClassification.ipynb] (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/SnakeClassification.ipynb) - Jupyter Notebook for training and evaluating snake recognition models. Contains the source code and training process for the snake classification model, including preprocessing, training, and accuracy evaluation steps.
 
-* [database_snake.sql] - The project's SQL database file. Contains the basic structure and data for the database used in the application, including tables and relations needed to store information about snake species and their venom. This is a future direction and the team plans to implement it in the near future.
+* [database_snake.sql] (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/database_snake.sql) - The project's SQL database file. Contains the basic structure and data for the database used in the application, including tables and relations needed to store information about snake species and their venom. This is a future direction and the team plans to implement it in the near future.
 
