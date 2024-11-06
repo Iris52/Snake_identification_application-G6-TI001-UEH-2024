@@ -11,6 +11,8 @@ pids
 *.seed
 *.log
 
+final_app/Backend/inception.h5
+
 # Directory used by npm for globally installed node modules
 node_modules
 
