@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Classification</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        input[type="file"] {
+            margin-right: 10px;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        h2 {
+            margin-top: 20px;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .info {
+            background-color: #e7f3ff;
+            padding: 10px;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+        .history {
+            margin-top: 30px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        .history h3 {
+            color: #007BFF;
+        }
+        .history-item {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Image Classification with Multiple Models</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <button type="submit">Upload</button>
+    </form>
+
+    {% if image_url %}
+    <h2>Uploaded Image:</h2>
+    <img src="{{ image_url }}" alt="Uploaded Image">
+
+    <h2>Predictions:</h2>
+
+    <h3>Binomial Predictions:</h3>
+    <ul>
+        {% for model_name, prediction in binomial_predictions.items() %}
+            <li>
+                <strong>{{ model_name }}:</strong> {{ prediction }}
+            </li>
+        {% endfor %}
+    </ul>
+
+    {% if additional_info %}
+    <div class="info">
+        <h3>Thông tin bổ sung:</h3>
+        <p><strong>Family:</strong> {{ additional_info.Family }}</p>
+        <p><strong>Genus:</strong> {{ additional_info.Genus }}</p>
+        <p><strong>Country:</strong> {{ additional_info.Country }}</p>
+        <p><strong>Poisonous:</strong> {{ additional_info.Poisonous }}</p>
+    </div>
+    {% endif %} <!-- Đóng khối if cho additional_info -->
+    {% endif %} <!-- Đóng khối if cho image_url -->
+
+    <!-- Lịch sử tìm kiếm -->
+    <h1>Lịch Sử Tìm Kiếm</h1>
+    <div id="history-container"></div>
+
+    <script>
+        async function fetchHistory() {
+            try {
+                const response = await fetch("http://127.0.0.1:5000/get_history");
+                const history = await response.json();
+
+                const historyContainer = document.getElementById("history-container");
+                historyContainer.innerHTML = history.map(entry => `
+                    <div class="history-entry">
+                        <p><strong>Thời gian:</strong> ${entry.timestamp}</p>
+                        <p><strong>Nhãn:</strong> ${entry.label}</p>
+                        <p><strong>Thông tin thêm:</strong> ${JSON.stringify(entry.additional_info)}</p>
+                    </div>
+                    <hr>
+                `).join("");
+            } catch (error) {
+                console.error("Lỗi khi lấy lịch sử:", error);
+            }
+        }
+
+        // Gọi hàm fetchHistory khi trang được tải
+        window.onload = fetchHistory;
+    </script>
+
+</body>
+</html>

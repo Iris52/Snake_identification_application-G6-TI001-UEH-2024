@@ -1,0 +1,93 @@
+[
+    {
+        "timestamp": "2024-10-29T09:52:02.090043",
+        "label": "Crotalus atrox",
+        "predictions": {
+            "EfficientNetV2B3": "Crotalus atrox"
+        },
+        "additional_info": {
+            "Family": "Viperidae",
+            "Genus": "Crotalus",
+            "Country": "United States of America",
+            "Poisonous": 1
+        }
+    },
+    {
+        "timestamp": "2024-10-29T10:56:54.497135",
+        "label": "Crotalus atrox",
+        "predictions": {
+            "EfficientNetV2B3": "Crotalus atrox"
+        },
+        "additional_info": {
+            "Family": "Viperidae",
+            "Genus": "Crotalus",
+            "Country": "United States of America",
+            "Poisonous": 1
+        }
+    },
+    {
+        "timestamp": "2024-10-29T12:55:36.398123",
+        "label": "Crotalus atrox",
+        "predictions": {
+            "EfficientNetV2B3": "Crotalus atrox"
+        },
+        "additional_info": {
+            "Family": "Viperidae",
+            "Genus": "Crotalus",
+            "Country": "United States of America",
+            "Poisonous": 1
+        }
+    },
+    {
+        "timestamp": "2024-10-29T13:18:53.320701",
+        "label": "Crotalus atrox",
+        "predictions": {
+            "EfficientNetV2B3": "Crotalus atrox"
+        },
+        "additional_info": {
+            "Family": "Viperidae",
+            "Genus": "Crotalus",
+            "Country": "United States of America",
+            "Poisonous": 1
+        }
+    },
+    {
+        "timestamp": "2024-10-29T13:22:22.239505",
+        "label": "Crotalus atrox",
+        "predictions": {
+            "EfficientNetV2B3": "Crotalus atrox"
+        },
+        "additional_info": {
+            "Family": "Viperidae",
+            "Genus": "Crotalus",
+            "Country": "United States of America",
+            "Poisonous": 1
+        }
+    },
+    {
+        "timestamp": "2024-10-29T13:48:23.291054",
+        "label": "Crotalus atrox",
+        "predictions": {
+            "EfficientNetV2B3": "Crotalus atrox"
+        },
+        "additional_info": {
+            "Family": "Viperidae",
+            "Genus": "Crotalus",
+            "Country": "United States of America",
+            "Poisonous": 1
+        }
+    },
+    {
+        "timestamp": "2024-10-29T13:53:57.648415",
+        "label": "Crotalus atrox",
+        "predictions": {
+            "EfficientNetV2B3": "Crotalus atrox"
+        },
+        "additional_info": {
+            "Family": "Viperidae",
+            "Genus": "Crotalus",
+            "Country": "United States of America",
+            "Poisonous": 1
+        }
+    }
+]
