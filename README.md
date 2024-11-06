@@ -9,9 +9,8 @@
               
 ##**Dataset**
 ---
-Image of 135 different species of snakes
+  Image of 135 different species of snakes
 ###**Directory**
----
 Csv - Contains csv file with details about training and test set , information regarding the binomial name , country where they are found and etc.
 train - Contains folder differentiated by the class_id(check csv) , around 24k images.
 test - Contains folder differentiated by the class_id(check csv) ,around 3k images.
