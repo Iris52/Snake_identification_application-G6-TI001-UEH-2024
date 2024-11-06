@@ -3,11 +3,11 @@
 Overview
 ---
                 
-  *The snake image recognition application provides users with the ability to identify snakes and determine their toxicity through images. It helps users identify accurate information about snakes when encountered in reality, helping users quickly identify snakes in case of bites and when users want to identify any type of snake in the world, thereby saving emergency time, providing information to doctors and coordinating serum in a timely manner.
+  The snake image recognition application provides users with the ability to identify snakes and determine their toxicity through images. It helps users identify accurate information about snakes when encountered in reality, helping users quickly identify snakes in case of bites and when users want to identify any type of snake in the world, thereby saving emergency time, providing information to doctors and coordinating serum in a timely manner.
                 
-  *Our project uses a machine learning model to classify venomous and non-venomous snakes. Snake images are trained on a dataset of 23,000 records so that the model can distinguish the biological characteristics of each species and classify toxicity. The application has the ability to scan images from the camera or upload from the library, put them into the application and return results by snake species name and toxicity. Along with that, it stores data about search history to help users easily check information again.
+  Our project uses a machine learning model to classify venomous and non-venomous snakes. Snake images are trained on a dataset of 23,000 records so that the model can distinguish the biological characteristics of each species and classify toxicity. The application has the ability to scan images from the camera or upload from the library, put them into the application and return results by snake species name and toxicity. Along with that, it stores data about search history to help users easily check information again.
               
-  *The snake recognition application based on machine learning provides a useful solution for improving understanding of snakes and supporting quick handling in emergency cases. This is an effective application to reduce the risk of death from venomous snakebites, contribute to the effort to reduce neglected tropical diseases in areas prone to snakebite accidents as well as help people gain more understanding about snake species in the world. 
+  The snake recognition application based on machine learning provides a useful solution for improving understanding of snakes and supporting quick handling in emergency cases. This is an effective application to reduce the risk of death from venomous snakebites, contribute to the effort to reduce neglected tropical diseases in areas prone to snakebite accidents as well as help people gain more understanding about snake species in the world. 
               
 **Dataset**
 ---
