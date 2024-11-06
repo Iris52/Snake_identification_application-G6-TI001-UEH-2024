@@ -1,6 +1,6 @@
-#**SNAKE SPECIES IDENTIFICATION APPLICATION**
+**SNAKE SPECIES IDENTIFICATION APPLICATION**
 ---
-##Overview
+Overview
 ---
                 
                 The snake image recognition application provides users with the ability to identify snakes and determine their toxicity through images. It helps users identify accurate information about snakes when encountered in reality, helping users quickly identify snakes in case of bites and when users want to identify any type of snake in the world, thereby saving emergency time, providing information to doctors and coordinating serum in a timely manner.
