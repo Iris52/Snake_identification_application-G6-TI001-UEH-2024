@@ -40,4 +40,8 @@ Experience hi-fi prototype: https://www.figma.com/proto/od7N8QVA8m9RTh8VLthOMH/S
 * **[SnakeClassification.ipynb]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/SnakeClassification.ipynb) - Jupyter Notebook for training and evaluating snake recognition models. Contains the source code and training process for the snake classification model, including preprocessing, training, and accuracy evaluation steps.
 
 * **[database_snake.sql]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/database_snake.sql) - The project's SQL database file. Contains the basic structure and data for the database used in the application, including tables and relations needed to store information about snake species and their venom. This is a future direction and the team plans to implement it in the near future.
-
+* **[app.py]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/app.py) - File app.py trong dự án nhận diện loài rắn sẽ là phần backend chính, cung cấp API để xử lý các yêu cầu từ frontend hoặc các ứng dụng khác.
+* **[static/uploads]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/static/uploads) - Folder containing project images
+* **[templates]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/templates) - Test interface when testing models and APIs
+* **[venv]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/tree/main/venv) - This is the root directory of the virtual environment. It contains all the files and directories needed to create a standalone Python environment including Scripts, Lib and some other items.
+* **[search_history.json]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/search_history.json) - Historical data archive of snake species searches
