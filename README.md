@@ -38,7 +38,7 @@ Experience hi-fi prototype: https://www.figma.com/proto/od7N8QVA8m9RTh8VLthOMH/S
 
 * **[README.md]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/README.md) - The main README file of the project. Detailed instructions on how to install, use, and deploy the snake recognition application, as well as system requirements and contact information.
 
-* **[Training_model_AI.ipynb]** (Training_model_AI.ipynb) - Jupyter Notebook for training and evaluating snake recognition models. Contains the source code and training process for the snake classification model, including preprocessing, training, and accuracy evaluation steps.
+* **[Training_model_AI.ipynb]** (https://github.com/Iris52/Snake_identification_application-G6-TI001-UEH-2024/blob/f17b61f55f889a9750f270f0144f1ece51d1ab95/Training_model_AI.ipynb) - Jupyter Notebook for training and evaluating snake recognition models. Contains the source code and training process for the snake classification model, including preprocessing, training, and accuracy evaluation steps.
 
 * **[database_snake.sql]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/database_snake.sql) - The project's SQL database file. Contains the basic structure and data for the database used in the application, including tables and relations needed to store information about snake species and their venom. This is a future direction and the team plans to implement it in the near future.
 * **[app.py]** (https://github.com/Iris52/Snake-N6-TI001-4-10-24/blob/main/app.py) - File app.py trong dự án nhận diện loài rắn sẽ là phần backend chính, cung cấp API để xử lý các yêu cầu từ frontend hoặc các ứng dụng khác.
